@@ -16,3 +16,5 @@ const palabraRandom = (longitud) => {
 for (i of tds) {
     i.innerHTML = palabraRandom(10)
 }
+
+console.log("Diamantes")
